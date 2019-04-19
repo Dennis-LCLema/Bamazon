@@ -1,0 +1,27 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis-LCLema/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis-LCLema/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Dennis-LCLema/Bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
